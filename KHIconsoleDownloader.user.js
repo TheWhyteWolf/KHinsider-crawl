@@ -3,7 +3,7 @@
 // @namespace    https://downloads.khinsider.com/
 // @version      1.4
 // @description  Download an ENTIRE console's catalogue from KHinsider, one ZIP per album. Runs inside your real browser so it passes Cloudflare. MP3 preferred, FLAC/OGG selectable. Resumable.
-// @author       Lordwhyte (built on Lolen10's batch downloader)
+// @author       voyd (built on Lolen10's batch downloader)
 // @match        https://downloads.khinsider.com/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
